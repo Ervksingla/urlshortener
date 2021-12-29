@@ -8,9 +8,9 @@
     ],
     "redirects": [
       {
-        "source" : "/youtube",
-        "destination" : "https://www.youtube.com/watch?v=prhGC1wCUi4",
-        "type" : 301
+        "source": "/youtube",
+        "destination": "https://www.youtube.com/watch?v=prhGC1wCUi4",
+        "type": 301
       }
     ]
   }
