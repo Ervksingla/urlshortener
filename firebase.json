@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source" : "/youtube",
+        "destination" : "https://www.youtube.com/watch?v=prhGC1wCUi4",
+        "type" : 301
+      }
+    ]
+  }
+}
